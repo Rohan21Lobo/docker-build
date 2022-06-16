@@ -1,2 +1,2 @@
 FROM registry.redhat.io/ubi8/ubi
-RUN sleep infiity
+RUN sleep infinity
